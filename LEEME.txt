@@ -1,0 +1,34 @@
+CARTA PARA ANGELI - cómo subirla a internet
+
+CONTENIDO DE LA CARPETA
+  index.html      la carta (la página principal)
+  img/            las fotos de la carta (ella, la llamada, Team Nusita y los 4 tulipanes)
+  audio/          la música (cancion.mp3 y wildflower.mp3)
+  LEEME.txt       estas instrucciones
+
+IMPORTANTE: no muevas ni renombres las carpetas img y audio, ni los archivos
+que hay dentro. La carta los busca con esos nombres.
+
+OPCIÓN 1: Netlify Drop (la más fácil, sin cuenta de programador)
+  1. Descomprime el zip.
+  2. Entra a https://app.netlify.com/drop
+  3. Arrastra la carpeta carta-angeli-web completa.
+  4. Te da un enlace. Ese es el que le mandas. Puedes cambiarle el nombre
+     al enlace en la configuración del sitio.
+
+OPCIÓN 2: GitHub Pages
+  1. Crea un repositorio nuevo y sube TODO el contenido de la carpeta
+     (index.html, img y audio).
+  2. En Settings > Pages elige la rama main y la carpeta / (root).
+  3. En unos minutos te da el enlace.
+
+PARA CAMBIAR TEXTOS
+  Abre index.html con el Bloc de notas y busca "EDITA AQUÍ". Todo el
+  contenido está junto en ese bloque. Guarda y vuelve a subir la carpeta.
+
+DETALLES
+  - La música suena cuando ella toca el sello al inicio (los celulares no
+    permiten sonido automático). Puedes elegir la canción y ajustar el volumen
+    con los controles de arriba a la izquierda.
+  - Las letras (Google Fonts) se cargan desde internet, así que necesita conexión.
+  - Prueba el enlace en tu celular antes de dárselo.
